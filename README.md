@@ -1,2 +1,2 @@
 # asadrauf-starwars
-Star wars deployment test
+Star wars app built using jquery node js and express
